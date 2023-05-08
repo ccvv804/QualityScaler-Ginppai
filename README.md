@@ -1,15 +1,9 @@
 
 <div align="center">
-    <br>
-    <img src="https://github.com/Djdefrag/QualityScaler/blob/main/Assets/logo.png" width="175"> </a> 
-    <br><br> QualityScaler-Ginppai - 긴빠이된 image/video AI upscaler app (BSRGAN) <br><br>
+    <br> QualityScaler-Ginppai - 긴빠이된 image/video AI upscaler app (BSRGAN) <br><br>
     <a href="https://github.com/ccvv804/QualityScaler-Ginppai/releases">
          <img src="https://user-images.githubusercontent.com/86362423/162710522-c40c4f39-a6b9-48bc-84bc-1c6b78319f01.png" width="200">
     </a>
-</div>
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/32263112/233322637-f907a988-8367-42a8-afe0-31e05044208a.PNG"> </a> 
 </div>
 
 ## Credits.
