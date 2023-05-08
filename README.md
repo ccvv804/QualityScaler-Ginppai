@@ -16,6 +16,7 @@ BSRGAN - https://github.com/cszn/BSRGAN | https://arxiv.org/abs/2103.14006
 - Windows 11 / Windows 10
 - RAM >= 8Gb
 - Directx12 compatible GPU
+    - 그렇다고 오버워치도 돌릴 수 없는 GPU는 안됩니다.
 ## How to install manually.
 ```sh
 git clone https://github.com/ccvv804/QualityScaler-Ginppai
