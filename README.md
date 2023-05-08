@@ -14,7 +14,7 @@ BSRGAN - https://github.com/cszn/BSRGAN | https://arxiv.org/abs/2103.14006
 
 ## Requirements.
 - Windows 11 / Windows 10
-    - no linux no mac
+    - DirectML 덕분에 리눅스나 맥은 안됩니다.
 - RAM >= 8Gb
 - Directx12 compatible GPU
     - 합리적인 사용을 위해서는 어느정도 성능이 되어야 합니다.
