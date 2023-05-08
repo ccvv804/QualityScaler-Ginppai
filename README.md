@@ -12,9 +12,7 @@ BSRGAN - https://github.com/cszn/BSRGAN | https://arxiv.org/abs/2103.14006
 ## Requirements.
 - Windows 11 / Windows 10
 - RAM >= 8Gb
-- Directx12 compatible GPU:
-    - 적당히 구식이 아니면서 느리지 않은 GPU
-    
+- Directx12 compatible GPU
 ## How to install manually.
 ```sh
 git clone https://github.com/ccvv804/QualityScaler-Ginppai
