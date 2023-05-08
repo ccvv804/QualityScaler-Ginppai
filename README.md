@@ -6,6 +6,9 @@
     </a>
 </div>
 
+## 이것은...
+[Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler)을 긴빠이 한것입니다.
+
 ## Credits.
 BSRGAN - https://github.com/cszn/BSRGAN | https://arxiv.org/abs/2103.14006
 
