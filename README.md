@@ -13,9 +13,7 @@ BSRGAN - https://github.com/cszn/BSRGAN | https://arxiv.org/abs/2103.14006
 - Windows 11 / Windows 10
 - RAM >= 8Gb
 - Directx12 compatible GPU:
-    - any AMD >= Radeon HD 7000 series
-    - any Intel HD Integrated >= 4th-gen core
-    - any NVIDIA >=  GTX 600 series
+    - 적당히 구식이 아니면서 느리지 않은 GPU
     
 ## How to install manually.
 ```sh
