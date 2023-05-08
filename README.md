@@ -20,6 +20,7 @@ BSRGAN - https://github.com/cszn/BSRGAN | https://arxiv.org/abs/2103.14006
 ## How to install manually.
 ```sh
 git clone https://github.com/ccvv804/QualityScaler-Ginppai
+cd QualityScaler-Ginppai
 python venv venv
 .\venv\Scripts\activate
 pip install -r requirements.txt
