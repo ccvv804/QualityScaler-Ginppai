@@ -9,14 +9,6 @@
 ## Credits.
 BSRGAN - https://github.com/cszn/BSRGAN | https://arxiv.org/abs/2103.14006
 
-## How is made.
-QualityScaler is completely written in Python, from backend to frontend. 
-External packages are:
-- AI  -> torch / torch-directml
-- GUI -> customtkinter / win32mica
-- Image/video -> openCV / moviepy
-- Packaging   -> pyinstaller / upx
-
 ## Requirements.
 - Windows 11 / Windows 10
 - RAM >= 8Gb
@@ -24,7 +16,15 @@ External packages are:
     - any AMD >= Radeon HD 7000 series
     - any Intel HD Integrated >= 4th-gen core
     - any NVIDIA >=  GTX 600 series
-
+    
+## How to install manually.
+```sh
+git clone https://github.com/ccvv804/QualityScaler-Ginppai
+python venv venv
+.\venv\Scripts\activate
+pip install -r requirements.txt
+python QualityScaler.py
+```
 ## Features.
 - [x] Easy to use GUI
 - [x] Images and Videos upscale
@@ -33,3 +33,11 @@ External packages are:
 - [x] Multiple Gpu support
 - [x] Compatible images - png, jpeg, bmp, webp, tif  
 - [x] Compatible video  - mp4, wemb, gif, mkv, flv, avi, mov, qt 
+
+## How is made.
+QualityScaler is completely written in Python, from backend to frontend. 
+External packages are:
+- AI  -> torch / torch-directml
+- GUI -> customtkinter / win32mica
+- Image/video -> openCV / moviepy
+- Packaging   -> pyinstaller / upx
