@@ -21,7 +21,7 @@ BSRGAN - https://github.com/cszn/BSRGAN | https://arxiv.org/abs/2103.14006
 ```sh
 git clone https://github.com/ccvv804/QualityScaler-Ginppai
 cd QualityScaler-Ginppai
-python venv venv
+python -m venv venv
 .\venv\Scripts\activate
 pip install -r requirements.txt
 python QualityScaler.py
