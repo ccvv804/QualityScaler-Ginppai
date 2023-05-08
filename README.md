@@ -9,7 +9,7 @@
 ## 이 저장소는?
 이 저장소는 [Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler)를 긴빠이 한것입니다. 언제 어디에서 누구나 손쉽게 QualityScaler를 긴빠이 할 수 있도록 편집되었지만 소스코드 수정은 없습니다.
 
-### 긴빠이는?
+### 긴빠이?
 긴빠이는 해병 문학에서 등장하는 단어로서 훔친다는 의미의 해병대 은어입니다. 일본어 ギンバエ에서 유례된 것으로 추정되고 있습니다.
 
 ## Credits.
